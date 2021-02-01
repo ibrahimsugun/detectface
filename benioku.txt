@@ -1,0 +1,1 @@
+matlab ve detext face klasörü olduðu gibi cye atýlýp çalýþtýrýlacak
